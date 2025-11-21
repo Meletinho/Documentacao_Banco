@@ -6,7 +6,7 @@ Sistema mobile para mapeamento de shoppings em Salvador, com direcionamento inte
 ## 🗃️ Modelagem do Banco de Dados
 
 ### DER - Diagrama Entidade-Relacionamento
-![DER](https://via.placeholder.com/800x400/0088cc/ffffff?text=DER+HEFESTOOLS)
+<img width="2374" height="1231" alt="DiagramaER_Shopping" src="https://github.com/user-attachments/assets/23e96c58-007e-49d6-ae01-c240d11bdbb7" />
 
 ### Principais Tabelas
 | Tabela | Descrição |
